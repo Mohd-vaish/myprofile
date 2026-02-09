@@ -1,6 +1,6 @@
 # myprofile
 
-<h1 align="center">Hi 👋, I'm Mojammil Husain</h1>
+<h1 align="center">Hi 👋, I'm mohd vaish siddique</h1>
 <h3 align="center">Passionate about problem-solving and full-stack web development</h3>
 
 ---
